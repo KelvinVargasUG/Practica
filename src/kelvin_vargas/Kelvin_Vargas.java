@@ -35,5 +35,8 @@ public class Kelvin_Vargas {
         System.out.println("e^x");
         System.out.println("x = 0.5");
         System.out.println("El resultado de e^0.5 en la serie Maclaurin es: " + Sr.exponencial((float) 0.5, 7));
+        System.out.println("El resultado de e^0.5 en la serie Maclaurin es: " + Sr.exponencial((float) 0.5, 7));
+
     }
+
 }
